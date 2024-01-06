@@ -1,6 +1,6 @@
 ## Hello World! I'm Yeren
 
-#### A Student and a bugging Developer with a passion for full-stack development and exploring the potential of LLMs.
+#### A Student and a bugging Developer interested in full-stack development and exploring the potential of LLMs.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
