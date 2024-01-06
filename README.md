@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170px" src="https://github-readme-stats-deployment-delta.vercel.app/api?username=yeren66&count_private=true&show_icons=true&hide=prs" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170px" src="https://github-readme-stats-deployment-delta.vercel.app/api/top-langs/?username=yeren66&layout=compact" />
+  </a>
+</p>
