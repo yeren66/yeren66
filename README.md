@@ -1,9 +1,6 @@
-### Hi there 👋
+## Hello World! I'm Yeren
 
-<!--
-**yeren66/yeren66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+#### A Student and a bugging developer with a passion for full-stack development and exploring the potential of LLMs.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,11 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="600"></p>
+<!-- <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="600"></p> -->
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yeren66"></p>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yeren66"></p> -->
 
 
 <p align="center">
