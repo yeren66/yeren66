@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="600"></p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
