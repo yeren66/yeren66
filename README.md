@@ -3,7 +3,7 @@
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hi! I am
-                <b><a target="_blank" href="yeren.xyz/wordpress">Yeren</a></b>
+                <b><a target="_blank" href="http://yeren.xyz/wordpress">Yeren</a></b>
         </samp>
 </h3>
 <br>
