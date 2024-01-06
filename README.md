@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="600"></p>
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yeren66"></p>
+
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="170px" src="https://github-readme-stats-deployment-delta.vercel.app/api?username=yeren66&count_private=true&show_icons=true&hide=prs" />
